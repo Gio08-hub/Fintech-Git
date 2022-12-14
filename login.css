@@ -1,0 +1,118 @@
+body{
+    background-color: #A66AE2;
+}
+
+
+.voltar i{
+    font-size: 30px;
+    color: white;
+    padding-bottom: 0%;
+}
+
+h1 {
+    color: #F8FD04 ;
+    text-align: center;
+    font-size: 100%;
+    padding-top: 0%;
+    text-shadow:0.1em 0.1em 0.2em black;
+}
+
+h2{
+    color: #F8FD04;
+    text-align: center;
+    font-size: 200%;
+    margin-top: 70px;
+    text-shadow: 0.1em 0.1em 0.2em black;
+}
+
+.form-control{
+    display: block;
+    width: 100%;
+    line-height: 1.5;
+    border-color:#F8FD04;
+    border-style: solid;
+    border-width: 0 0 1px 0;
+    padding: 0px;
+    color: #F8FD04;
+    height: auto;
+    border-radius: 0;
+    background-color: #A66AE2;
+    background-clip: padding-box;
+}
+
+
+
+.login{
+    height: 50px;
+    width: 300px;
+    background-color: white;
+    color: #A66AE2 ;
+    display: flex;
+    border-radius: 3em;
+    justify-content: center;
+    margin-top: 10%;
+    align-items: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+.esqueciasenha{
+    color: white;
+    margin-left: 60%;
+
+}
+
+div.titulo {
+    height: 1px;
+    background-color: #F8FD04;
+    text-align: center;
+  }
+  div.titulo span {
+    background-color: #A66AE2;
+    position: relative;
+    top: -0.8em;
+    padding: 0 10px;
+    color: white;
+  }
+
+.form-control::placeholder{
+    color: white;
+}
+
+.facebook{
+    height: 30px;
+    width: 300px;
+    background-color: black;
+    color: white ;
+    display: flex;
+    border-radius: 3em;
+    margin-top: 10%;
+    margin-left: 10%;
+    justify-content: center;
+
+}
+
+.gmail{
+    height: 30px;
+    width: 300px;
+    background-color: black;
+    color: white ;
+    display: flex;
+    border-radius: 3em;
+    margin-top: 10%;
+    margin-left: 10%;
+    text-align: center;
+    justify-content: center;
+}
+
+.cadastro {
+    color: white;
+    text-align: center;
+
+}
+
+
+
+

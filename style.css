@@ -1,0 +1,54 @@
+body{
+    background-image: url(grafico.jpeg);
+    background-repeat: no-repeat;
+    background-size: 350%;
+    background-position: center;
+    
+}
+
+html, body{
+    height: 100%;
+}
+
+
+.corfundo{
+    width: 100%;
+    height: 100%;
+    background-color:#A66AE2;
+    opacity: 0.9;
+    
+}
+.frase h1 {
+    font-family: Righteous;
+    font-size:400%;
+    padding-top: 30%;
+    color: #F8FD04;
+    text-shadow: 0.1em 0.1em 0.2em black;
+    
+    
+}
+
+.corfundo a {
+    text-decoration: none;
+
+}
+
+.botao{
+    height: 60px;
+    width: 300px;
+    background-color: white;
+    color: #A66AE2 ;
+    display: flex;
+    border-radius: 3em;
+    justify-content: center;
+    margin-top: 35%;
+    margin-left: 10%;
+    align-items: center;
+}
+
+i {
+    color: #A66AE2;
+    font-size: 30px;
+}
+
+
